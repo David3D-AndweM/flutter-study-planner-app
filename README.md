@@ -49,7 +49,7 @@ A comprehensive Flutter application designed to help students manage their study
 ## 📱 App Screenshots
 
 ### Today's Tasks Screen
-![Today Screen](screenshots/Screenshot 2025-10-06 at 08.50.48.png)
+![Today Screen](screenshots/today_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -62,7 +62,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `BottomNavigationBar` - Bottom navigation
 
 ### Calendar Screen
-![Calendar Screen](screenshots/Screenshot 2025-10-06 at 09.06.16.png)
+![Calendar Screen](screenshots/calendar_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -75,7 +75,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `IconButton` - Navigation arrows
 
 ### Settings Screen
-![Settings Screen](screenshots/Screenshot 2025-10-06 at 09.06.36.png)
+![Settings Screen](screenshots/settings_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -88,7 +88,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `Divider` - Visual separators
 
 ### Add Task Screen
-![Add Task Screen](screenshots/Screenshot 2025-10-06 at 09.06.54.png)
+![Add Task Screen](screenshots/add_task_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -102,7 +102,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `Column` - Vertical layout
 
 ### Task Details Screen
-![Task Details Screen](screenshots/Screenshot 2025-10-06 at 09.07.20.png)
+![Task Details Screen](screenshots/task_details_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
