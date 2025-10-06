@@ -1,4 +1,4 @@
-# 📚 David's Study Planner App
+Study Planner App
 
 **Developed by David Mwape**  
 *BSE | Flutter & Mobile App Developer*
