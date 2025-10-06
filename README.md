@@ -1,7 +1,7 @@
 # 📚 David's Study Planner App
 
 **Developed by David Mwape**  
-*Computer Science Student | Flutter & Mobile App Developer*
+*BSE | Flutter & Mobile App Developer*
 
 A comprehensive Flutter application designed to help students manage their study tasks efficiently with calendar integration and reminder systems.
 
