@@ -49,7 +49,7 @@ A comprehensive Flutter application designed to help students manage their study
 ## 📱 App Screenshots
 
 ### Today's Tasks Screen
-![Today Screen](screenshots/flutter_01.png)
+![Today Screen](screenshots/Screenshot 2025-10-06 at 08.50.48.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -62,7 +62,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `BottomNavigationBar` - Bottom navigation
 
 ### Calendar Screen
-![Calendar Screen](screenshots/flutter_02.png)
+![Calendar Screen](screenshots/Screenshot 2025-10-06 at 09.06.16.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -75,7 +75,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `IconButton` - Navigation arrows
 
 ### Settings Screen
-![Settings Screen](screenshots/settings_screen.png)
+![Settings Screen](screenshots/Screenshot 2025-10-06 at 09.06.36.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -88,7 +88,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `Divider` - Visual separators
 
 ### Add Task Screen
-![Add Task Screen](screenshots/add_task_screen.png)
+![Add Task Screen](screenshots/Screenshot 2025-10-06 at 09.06.54.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -101,18 +101,21 @@ A comprehensive Flutter application designed to help students manage their study
 - `Padding` - Layout spacing
 - `Column` - Vertical layout
 
-### Edit Task Screen
-![Edit Task Screen](screenshots/edit_task_screen.png)
+### Task Details Screen
+![Task Details Screen](screenshots/Screenshot 2025-10-06 at 09.07.20.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
 - `AppBar` - Top navigation with actions
-- `Form` - Form validation
-- `TextFormField` - Pre-filled input fields
-- `DatePicker` - Date modification
-- `TimePicker` - Time modification
-- `ElevatedButton` - Update/Delete buttons
-- `AlertDialog` - Confirmation dialogs
+- `Form` - Form validation and input handling
+- `TextFormField` - Input fields for task details
+- `DatePicker` - Date selection widget
+- `TimePicker` - Time selection widget
+- `ElevatedButton` - Action buttons (Save/Update/Delete)
+- `AlertDialog` - Confirmation and info dialogs
+- `Column` - Vertical layout arrangement
+- `Padding` - Spacing and margins
+- `SizedBox` - Fixed spacing between elements
 
 ## 🎯 Technical Implementation
 
