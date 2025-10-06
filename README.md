@@ -87,8 +87,8 @@ A comprehensive Flutter application designed to help students manage their study
 - `Icon` - Setting icons
 - `Divider` - Visual separators
 
-### Add Task Screen
-![Add Task Screen](screenshots/add_task_screen.png)
+### Edit Task Screen
+![Edit Task Screen](screenshots/editTask_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
@@ -102,7 +102,7 @@ A comprehensive Flutter application designed to help students manage their study
 - `Column` - Vertical layout
 
 ### Task Details Screen
-![Task Details Screen](screenshots/task_details_screen.png)
+![Task Details Screen](screenshots/editTask_screen.png)
 
 **Flutter Widgets Used:**
 - `Scaffold` - Main app structure
