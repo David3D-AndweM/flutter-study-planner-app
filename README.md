@@ -136,7 +136,7 @@ A comprehensive Flutter application designed to help students manage their study
 ## 👨‍💻 Developer
 
 **David Mwape**
-- Computer Science Student
+- BSE - Student
 - Flutter & Mobile App Development
 - Passionate about creating user-friendly mobile applications
 
